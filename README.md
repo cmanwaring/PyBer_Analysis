@@ -57,6 +57,6 @@ In Urban areas there are more drivers than there are rides. Inactive drivers cou
 ### Urban Areas (Total Fares):
 The Urban areas account for roughly 63% of the total fares, more than Suburban and Rural cities combined. The urban areas are going to be the areas that will generate the most revenues for the company. Expanding the service to other Urban areas will likely be the greatest prospect for overall fiscal growth.
 
-![Total Fare by City Type](analysis/pyber_fare_summary_revised.png)
+![Total Fare by City Type](analysis/PyBer_fare_summary_revised.png)
 
 
