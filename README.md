@@ -32,14 +32,14 @@ We analyzed the total rides, total drivers, total fares, average fare per ride, 
    - Urban       $24.53
 
  - **Average Fares per Driver: ($21.73)**
-   -Rural       $55.49
-   -Suburban    $39.50
-   -Urban       $16.57
+   - Rural       $55.49
+   - Suburban    $39.50
+   - Urban       $16.57
 
-**Average # of Rides per Driver: (0.8)**
-  -Rural       1.60
-  -Suburban    1.28
-  -Urban       0.68
+ - **Average # of Rides per Driver: (0.8)**
+  - Rural       1.60
+  - Suburban    1.28
+  - Urban       0.68
 
 ## Summary:
 1) Urban areas generate significantly more revenues than Suburban or Rural areas. Expand operations to new large cities to increase company assets.
