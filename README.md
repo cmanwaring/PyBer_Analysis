@@ -13,23 +13,23 @@ We analyzed the total rides, total drivers, total fares, average fare per ride, 
 
  - **Total Rides: 2375 (100%)**
    - Rural       125 (5.3%)
-   -Suburban    625 (26.3%)
-   -Urban       1,625 (68.4%)
+   - Suburban    625 (26.3%)
+   - Urban       1,625 (68.4%)
 
  - **Total Drivers: 2,973 (100%)**
-   -Rural       78 (2.6.%)
-   -Suburban    490 (16.4%)
-   -Urban       2,405
+   - Rural       78 (2.6.%)
+   - Suburban    490 (16.4%)
+   - Urban       2,405
 
  - **Total Fares: $63,538.64 (100%)**
-   -Rural       $4,327.93 (6.8%)
-   -Suburban    $19,356.33 (30.5%)
-   -Urban       $39,854.38 (62.7%)
+   - Rural       $4,327.93 (6.8%)
+   - Suburban    $19,356.33 (30.5%)
+   - Urban       $39,854.38 (62.7%)
 
  - **Average Fares: ($26.75)**
-   -Rural       $34.62
-   -Suburban    $30.97
-   -Urban       $24.53
+   - Rural       $34.62
+   - Suburban    $30.97
+   - Urban       $24.53
 
  - **Average Fares per Driver: ($21.73)**
    -Rural       $55.49
