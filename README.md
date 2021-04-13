@@ -55,7 +55,7 @@ The average fare in Rural cities is much higher than in Urban cities. This might
 In Urban areas there are more drivers than there are rides. Inactive drivers could skew numbers to where there is less than one ride per driver in urban areas. Incorporate an inactivity function to remove inactive drivers from data to get more accurate results. Could also save money by reducing recruiting measures.
 
 ### Urban Areas (Total Fares):
-The Urban areas account for roughly 63% of the total fares, more than Suburban and Rural cities combined. The urban areas are going to be the areas that will generate the most revenues for the company. Expanding the service to other Urban areas will likely be the greatest prospect for overall fiscal growth.
+The Urban areas account for roughly 63% of the total fares; more than Suburban and Rural cities combined. The urban areas are going to be the areas that will generate the most revenues for the company. Expanding the service to other Urban areas will likely be the greatest prospect for overall fiscal growth.
 
 ![Total Fare by City Type](analysis/PyBer_fare_summary_revised.png)
 
